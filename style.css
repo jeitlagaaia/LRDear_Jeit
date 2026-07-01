@@ -43,5 +43,7 @@ header{
 }
 
 .museum-text p{
-    color:grey
+    color:grey;
+    margin-top:10px;
+    font-size:1rem;
 }
