@@ -149,3 +149,11 @@ header{
     font-family:'Playfair Display', serif;
 }
 
+.line{
+    width:90px;
+    height:3px;
+    background:#d2702f;
+    margin:25px 0;
+    
+}
+
