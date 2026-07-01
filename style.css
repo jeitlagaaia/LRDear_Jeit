@@ -110,5 +110,14 @@ header{
 
 .visit-btn{
     background:transparent;
-    border:2px
+    border:2px solid white;
+    color:white;
+    padding:12px 25px;
+    border-radius:25px;
+    cursor:pointer;
+
 }
+
+/*HERO*/
+
+.hero
