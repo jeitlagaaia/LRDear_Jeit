@@ -30,5 +30,11 @@ header{
 
 .logo-section img{
     width:110px;
+    height:auto;
+
+}
+
+.museum-text h1{
+    font-family:'Playfair Display', serif;
     
 }
