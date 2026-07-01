@@ -88,3 +88,27 @@ header{
     border-radius:15px;
     cursor:pointer;
 }
+
+/* NOTICE BAR */
+
+.notice-bar{
+    background:#a44a16
+    color:white
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:20px 50px;
+}
+
+.notice-content{
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
+
+.visit-btn{
+    background:transparent;
+    border:2px
+}
