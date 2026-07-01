@@ -79,3 +79,12 @@ header{
     gap:10px;
     font-size:1.2rem
 }
+
+.donate-btn{
+    background:#8b4218
+    color:white
+    border:none;
+    padding:12px 30px;
+    border-radius:15px;
+    cursor:pointer;
+}
