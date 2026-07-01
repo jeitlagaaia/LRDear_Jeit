@@ -12,3 +12,23 @@ body{
     font-family:'Inter', sans-serif;
     background:white
 }
+
+/* ================= HEADER ================= */
+
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    padding:25px 50px;
+    background:white
+}
+
+.logo-section{
+    display:flex;
+    gap:20px;
+}
+
+.logo-section img{
+    width:110px;
+    
+}
