@@ -66,3 +66,11 @@ header{
 
 }
 
+.header-right input{
+    width:200px
+    padding:10px 15px;
+    border:2px solid #c75a18;
+    border-radius:25px;
+
+}
+
