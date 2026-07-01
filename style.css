@@ -54,3 +54,15 @@ header{
     margin-top:15px;
 }
 
+.nav-links strong{
+    font: size 1.2rem;
+}
+
+.header-right{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:15px
+
+}
+
