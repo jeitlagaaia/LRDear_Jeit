@@ -37,15 +37,16 @@ header{
 .museum-text h1{
     font-family:'Playfair Display', serif;
     Color:#8b4218;
-    font-size:3rem;
+    font-size:4rem;
     font-weight:400;
-    line-height:1.1;
+    line-height:1;
 }
 
 .museum-text p{
     color:grey;
-    margin-top:10px;
-    font-size:1rem;
+    margin-top:12px;
+    font-size:1.35rem;
+    line-height:1.2;
 }
 
 /* ================= NAVIGATION ================= */
