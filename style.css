@@ -133,6 +133,8 @@ header{
     position:absolute;
     inset:0;
     background:rgba(0,0,0,0.45);
+     background-image: url("images/school.jpg");
+    background-size: cover;
 }
 
 .hero-content{
@@ -143,6 +145,7 @@ header{
 
     max-width:650px;
     padding:120px 50px;
+   
 }
 
 .hero-content h2{
