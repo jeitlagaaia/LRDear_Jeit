@@ -48,14 +48,52 @@ header{
     font-size:1rem;
 }
 
-.nav-links{
+/* ================= NAVIGATION ================= */
+
+.main-nav{
     display:flex;
-    gap:50px;
-    margin-top:15px;
+    align-items:flex-start;
+    gap:55px;
+    margin-top:5px;
 }
 
-.nav-links strong{
-    font-size: 1.2rem;
+.nav-links{
+    display:flex;
+    gap:70px;
+}
+
+.nav-links a{
+    display:flex;
+    flex-direction:column;
+    text-decoration:none;
+}
+
+.nav-heading{
+    font-size:2rem;
+    font-weight:600;
+    color:#a24c18;
+    line-height:1;
+}
+
+.nav-sub{
+    margin-top:6px;
+    font-size:1.1rem;
+    color:#de8b58;
+    line-height:1;
+}
+
+.nav-links a:hover .nav-heading{
+    color:#7b3713;
+}
+
+.nav-links a:hover .nav-sub{
+    color:#a24c18;
+}
+
+.nav-line{
+    width:2px;
+    height:150px;
+    background:#8d8d8d;
 }
 
 .header-right{
