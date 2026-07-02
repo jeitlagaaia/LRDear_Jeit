@@ -157,3 +157,17 @@ header{
     
 }
 
+.hero-content h2{
+    font-family:'Playfair Display', serif;
+    font-size:4rem;
+    font-weight:400;
+}
+
+.line{
+    width:90px;
+    height:3px;
+    background:#d2702f;
+    margin:25px 0;
+}
+
+.hero
