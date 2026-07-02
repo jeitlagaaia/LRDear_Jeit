@@ -185,3 +185,27 @@ header{
     cursor:pointer;
 }
 
+/* RESPONSIVE */
+
+@media (max-width: 900px){
+
+    header{
+        flex-direction:column;
+        gap:30px;
+    }
+
+    .nav-links{
+        flex-direction:column;
+        gap:15px;
+    }
+
+    .notice-bar{
+        flex-direction:column;
+        gap:15px;
+        text-align:center;
+    }
+
+    .hero-content h2{
+        font-size:3rem;
+    }
+}
