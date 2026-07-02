@@ -124,7 +124,7 @@ header{
     position:relative;
     height:600px;
 
-    background-image:url("museum.jpg");
+    background-image:url("images/school.jpg");
     background-size:cover;
     background-position:center;
 }
@@ -133,8 +133,6 @@ header{
     position:absolute;
     inset:0;
     background:rgba(0,0,0,0.45);
-     background-image: url("images/school.jpg");
-    background-size: cover;
 }
 
 .hero-content{
