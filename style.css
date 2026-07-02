@@ -10,7 +10,7 @@
 
 body{
     font-family:'Inter', sans-serif;
-    background:white
+    background:white;
 }
 
 /* ================= HEADER ================= */
@@ -20,7 +20,7 @@ header{
     justify-content:space-between;
     align-items:flex-start;
     padding:25px 50px;
-    background:white
+    background:white;
 }
 
 .logo-section{
@@ -55,19 +55,19 @@ header{
 }
 
 .nav-links strong{
-    font: size 1.2rem;
+    font-size: 1.2rem;
 }
 
 .header-right{
     display:flex;
     flex-direction:column;
     align-items:center;
-    gap:15px
+    gap:15px;
 
 }
 
 .header-right input{
-    width:200px
+    width:200px;
     padding:10px 15px;
     border:2px solid #c75a18;
     border-radius:25px;
@@ -77,12 +77,12 @@ header{
 .socials{
     display:flex;
     gap:10px;
-    font-size:1.2rem
+    font-size: 1.2rem;
 }
 
 .donate-btn{
-    background:#8b4218
-    color:white
+    background:#8b4218;
+    color:white;
     border:none;
     padding:12px 30px;
     border-radius:15px;
@@ -92,8 +92,8 @@ header{
 /* NOTICE BAR */
 
 .notice-bar{
-    background:#a44a16
-    color:white
+    background:#a44a16;
+    color:white;
 
     display:flex;
     justify-content:space-between;
